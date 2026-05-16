@@ -8,7 +8,7 @@
   "server": {
     "ip": "nowyaleniegorszy.aternos.me",
     "port": 50901,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Kocham suchego !!",
-        "W koncu suchy przyszedl do mnie na nocowanke!!",
+        "Kocham suchego ",
+        "W koncu suchy przyszedl do mnie na nocowanke",
         "suchy liże mi stópki ohh"
       ]
     },
